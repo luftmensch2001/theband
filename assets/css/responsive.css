@@ -29,6 +29,10 @@
         display: block;
     }
 
+    #nav li a {
+        width: 100%;
+    }
+
     #nav .subnav {
         position: initial;
         background-color: #000;
