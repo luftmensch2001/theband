@@ -1,6 +1,7 @@
 HTML:
 - Thẻ xuống dòng mới khi bao bọc thẻ khác
 - Không có khoảng trống giữa các dòng
+- Tên class nếu có nhiều từ, phân tách bằng dấu gạch ngang (-)
 CSS:
 - Các khối lệnh ngăn cách nhau bởi một dòng trắng, mở ngoặc ở cùng hàng và đóng ngoặc ở hàng mới
 JS:
