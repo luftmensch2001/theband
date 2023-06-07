@@ -1,0 +1,8 @@
+HTML:
+- Thẻ xuống dòng mới khi bao bọc thẻ khác
+- Không có khoảng trống giữa các dòng
+CSS:
+- Các khối lệnh ngăn cách nhau bởi một dòng trắng, mở ngoặc ở cùng hàng và đóng ngoặc ở hàng mới
+JS:
+- Đặt tên biến theo camelCase
+- Các khối lệnh cách nhau bởi một dòng trắng, mở ngoặc ở cùng hàng và đóng ngoặc ở hàng mới

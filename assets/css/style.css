@@ -48,9 +48,6 @@ html {
 }
 
 /* MAIN */
-#main {
-
-}
 #header {
     height: 46px;
     background-color: #000;
@@ -134,8 +131,6 @@ html {
     line-height: 38px;
 }
 
-
-
 #nav > li > a {
     color: #fff;
     text-transform: uppercase;
@@ -147,6 +142,7 @@ html {
     padding: 0 24px;
     display: inline-block;
 }
+
 #nav .subnav li:hover a,
 #nav > li:hover > a {
     color: #000;
@@ -179,11 +175,6 @@ html {
     font-size: 15px;
     font-weight:500;
     text-shadow: 0 0 1px #000;
-}
-
-
-#content {
-    
 }
 
 #content .content-section {
